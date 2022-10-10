@@ -13,12 +13,6 @@ window.onresize = function(){
   rePosition();
 };
 
-$(function () {
-  //视频弹窗
-  $(function(){
-    $(".video1").colorbox({iframe:true, innerWidth:"80%", innerHeight:"30%"});	
-  })
 
-})
 
 
